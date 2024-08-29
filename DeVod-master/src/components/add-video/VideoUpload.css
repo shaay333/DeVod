@@ -1,0 +1,35 @@
+.root-create-post {
+    flex-grow: 1;
+    min-height: 90vh;
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+    text-align: center;
+    width: 500px;
+}
+
+.post {
+    text-align: center;
+}
+
+.input1 {
+    display: 'none';
+}
+
+.form-container1 {
+    border: 2px solid #2a162a3d;
+    text-align: center;
+    margin: auto;
+}
+
+form1 {
+    padding: 1rem;
+}
+
+.img-preview {
+    width: 350px;
+    padding-bottom: 1rem;
+}
+
+.text-field1 {
+    padding-bottom: 1rem;
+}
